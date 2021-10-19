@@ -1,0 +1,7 @@
+{
+  "name": "know_your_anime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

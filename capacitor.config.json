@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "know_your_anime",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
